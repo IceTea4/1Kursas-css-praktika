@@ -1,0 +1,49 @@
+h1, h2{
+    text-align: center;
+}
+div{
+    width: 600px;
+    background-color: #99ff99;
+    border-style: dashed;
+    border-width: 1px;
+    margin: auto;
+    padding: 30px;
+}
+img{
+    height: 100px;
+    opacity: 0.5;
+    border-width: 1px;
+    border-style: solid;
+    margin: 0px 0px 10px 30px;
+    float: right;
+}
+span{
+    font-size: 20px;
+    color: blue;
+}
+p{
+    color: navy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 2;
+    margin-bottom: 20px;
+}
+.ypatingas{
+    column-count: 2;
+}
+.linkui{
+    text-align: center;
+}
+hr{
+    width: 300px;
+    border-style: dashed;
+    border-width: 3px;
+    color: blue;
+}
+a{
+    color: black;
+    text-decoration: underline;
+}
+a:hover{
+    color: white;
+    text-decoration: none;
+}
